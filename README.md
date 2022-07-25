@@ -1,8 +1,6 @@
 # Generic Aho-Corasick Pattern Matching
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/kgwinnup/ac-automata/aca)](https://pkg.go.dev/github.com/kgwinnup/ac-automata/aca)
-[![Go Report Card](https://goreportcard.com/badge/github.com/kgwinnup/ac-automata/aca)](https://goreportcard.com/report/github.com/kgwinnup/ac-automata/aca)
-
 
 This repo contains a generic implementation of the
 [Aho-Corasick](https://kgwinnup.github.io/algorithms/2022/07/10/aho-corasick-string-searching.html)
